@@ -7,6 +7,7 @@ L'objectif de ce projet était de nettoyer un ensemble de données correspondant
 __Notions__ :
 * Formules de base (IF/IFS/XLOOKUP/SUBSTITUTE...)
 * Tableaux croisés dynamiques
+* Charts
 * Création d'un dashboard
 
 🇬🇧
@@ -16,4 +17,5 @@ The goal of this project was to clean a dataset corresponding to bike sales in E
 __Skills__ :
 * Basic formulas (IF/IFS/XLOOKUP/SUBSTITUTE...)
 * PivotTables
+* Charts
 * Creation of a dashboard
