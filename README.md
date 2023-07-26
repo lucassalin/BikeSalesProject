@@ -12,7 +12,7 @@ __Notions__ :
 
 🇬🇧
 
-The goal of this project was to clean a dataset corresponding to bike sales in Europe (https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe?resource=download) via Excel.
+The goal of this project was to clean a dataset corresponding to bike sales in Europe (https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe?resource=download) with Excel.
 
 __Skills__ :
 * Basic formulas (IF/IFS/XLOOKUP/SUBSTITUTE...)
